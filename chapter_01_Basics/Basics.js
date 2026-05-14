@@ -1,1 +1,3 @@
-console.log(process.platform);
+
+console.log(x);
+x = 10;
